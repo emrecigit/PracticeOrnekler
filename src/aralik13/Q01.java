@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Q01 {
     /*
-    Verilen bir arrayin elemanlarını ardışık toplamını hesaplayan metodu yazınız
+    Verilen bir arrayin elemanlarını ardışık toplamını hesaplayan metodu yazalım
     input={ 3, 5, 1, 2, 7, 9, 2, 3, 5, 7 }
     output={3, 5+1, 2+7+9, 2+3+5+7}
            {3,  6,   18,     17}
